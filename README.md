@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AWS app runner
 - 💬 Ask me about AWS, Cloud, InfoSec
 - 📫 How to reach me: https://benfran.com and https://www.linkedin.com/in/benfrancom/
-- ⚡ Fun fact: I like to draw too https://benfran.com/tags/comics/ 
+- ⚡ Fun facts: I wrote an [Android](https://github.com/bfrancom/ClerkCount) app a long while ago. I also like to [draw](https://benfran.com/tags/comics/).
 
