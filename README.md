@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on AWS cloud infrastructure, cloud security and kubernetes
-- 🌱 I’m learning more about AWS app runner
+- 🌱 I’m learning more about AWS app runner and looking into a potential slack vulnerability.
 - 💬 Ask me about AWS, Cloud, InfoSec, DevOps, Music, Habits
 - ✏️ Some things I've created
   - [Website](https://benfran.com)
