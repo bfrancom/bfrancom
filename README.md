@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on AWS cloud infrastructure, cloud security and kubernetes
 - 🌱 I’m learning more about AWS app runner
 - 💬 Ask me about AWS, Cloud, InfoSec, DevOps, Music, Habits
-- 📫 How to reach me:
+- ✏️ Some things I've created
   - [Website](https://benfran.com)
   - [LinkedIn](https://www.linkedin.com/in/benfrancom/)
   - [Habit Wallpaper](https://habituwall.com)
