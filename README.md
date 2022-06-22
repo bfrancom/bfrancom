@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun facts: 
   - I wrote an [Android](https://github.com/bfrancom/ClerkCount) app a long while ago
   - I also like to read, [write](https://benfran.com) and [draw](https://benfran.com/tags/comics/)
-  - I've found security vulnerabilities in multiple products including this [one](https://en.wikipedia.org/wiki/Skyward)
+  - I've found security vulnerabilities in multiple products including this [product](https://en.wikipedia.org/wiki/Skyward)
