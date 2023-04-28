@@ -22,6 +22,5 @@ Here are some ideas to get you started:
   - I've found security vulnerabilities in multiple products including [skyward](https://en.wikipedia.org/wiki/Skyward)
 - 💻 Open Source Contributions: 
   - [GitHub Audit Tool](https://github.com/EISMGard/github-audit-tool)
-  - [https://github.com/search?q=bfrancom&type=issues](https://github.com/search?q=bfrancom&type=issues)
   - [GitHub Gists](https://gist.github.com/bfrancom)
   - [StackOverflow Answers](https://stackoverflow.com/users/7016129/ben-francom)
