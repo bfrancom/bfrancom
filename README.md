@@ -22,9 +22,9 @@ Here are some ideas to get you started:
   - I wrote an [Android](https://github.com/bfrancom/ClerkCount) app a long while ago
   - I also like to read, [write](https://benfran.com) and [draw](https://benfran.com/tags/#art/)
   - I've found and reported security vulnerabilities in multiple products including:
-    -  [adp (July 29, 2023)](https://www.adp.com/): Data disclosure via Excessive Data Exposure
-    -  [vacations to go (July 29, 2023)](https://www.vacationstogo.com/): Data disclosure via Broken Access Control
-    -  [skyward (Nov 2017)](https://en.wikipedia.org/wiki/Skyward): Data disclosure via Broken Access Control
+    -  [adp](https://www.adp.com/) (July 29, 2023): Data disclosure via Excessive Data Exposure
+    -  [vacations to go](https://www.vacationstogo.com/) (July 29, 2023): Data disclosure via Broken Access Control
+    -  [skyward](https://en.wikipedia.org/wiki/Skyward) (Nov 2017): Data disclosure via Broken Access Control
 - 💻 Open Source Contributions: 
   - [GitHub Security Audit Tool](https://github.com/EISMGard/github-audit-tool)
   - [GitHub Gists](https://gist.github.com/bfrancom)
