@@ -6,10 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Platform Architecture leveraging GitHub Actions and AWS cloud
-- 🌱 I’m learning more about
-  - terraform cloud
-  - python (to automate some compliance requirements)
+- 🔭 I’m currently working on Platform Architecture and compliance leveraging python, GitHub Actions and AWS cloud
 - 💬 Ask me about AWS, Cloud, InfoSec, DevOps, Music, Habits
 - ✏️ Some things I've created:
   - [GitHub Security Audit Tool](https://github.com/EISMGard/github-audit-tool)
