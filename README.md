@@ -22,7 +22,9 @@ Here are some ideas to get you started:
     -  [adp](https://www.adp.com/) (July 29, 2023): Data disclosure via Excessive Data Exposure
     -  [vacations to go](https://www.vacationstogo.com/) (July 29, 2023): Data disclosure via Broken Access Control
     -  [skyward](https://en.wikipedia.org/wiki/Skyward) (Nov 2017): Data disclosure via Broken Access Control
-- 💻 Open Source Contributions: 
+- 💻 Open Source Contributions:
   - [GitHub Security Audit Tool](https://github.com/EISMGard/github-audit-tool)
   - [GitHub Gists](https://gist.github.com/bfrancom)
   - [StackOverflow Answers](https://stackoverflow.com/users/7016129/ben-francom)
+  - [ClerkCount Android App](https://github.com/bfrancom/ClerkCount)
+
