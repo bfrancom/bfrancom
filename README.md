@@ -27,4 +27,11 @@ Here are some ideas to get you started:
   - [GitHub Gists](https://gist.github.com/bfrancom)
   - [StackOverflow Answers](https://stackoverflow.com/users/7016129/ben-francom)
   - [ClerkCount Android App](https://github.com/bfrancom/ClerkCount)
+- 📃 Certifications
+  -   ![giac-cloud-security-automation-certification-gcsa (1)](https://github.com/bfrancom/bfrancom/assets/5726729/43dc035c-0fce-4d70-a797-d3138f16482b)
+  -   ![giac-penetration-tester-gpen 1](https://github.com/bfrancom/bfrancom/assets/5726729/553b808b-6b5e-49ab-9b8a-2199cc06f52b)
+  -   ![certified-information-systems-security-professional-cissp](https://github.com/bfrancom/bfrancom/assets/5726729/a5d86232-3b43-4498-a539-39949350621e)
+  -   
+
+
 
