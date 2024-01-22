@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Platform Architecture and compliance leveraging python, GitHub Actions and AWS cloud
+- 🔭 I’m currently working on Platform Architecture, Application Security and Compliance leveraging python, GitHub Actions, GitHub Advanced Security and AWS cloud
 - 💬 Ask me about AWS, Cloud, InfoSec, DevOps, Music, Habits
 - ✏️ Some things I've created:
   - [GitHub Security Audit Tool](https://github.com/EISMGard/github-audit-tool)
