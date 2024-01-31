@@ -21,16 +21,16 @@ Here are some ideas to get you started:
     -  [adp](https://www.adp.com/) (July 29, 2023): Data disclosure via Excessive Data Exposure
     -  [vacations to go](https://www.vacationstogo.com/) (July 29, 2023): Data disclosure via Broken Access Control
     -  [skyward](https://en.wikipedia.org/wiki/Skyward) (Nov 2017): Data disclosure via Broken Access Control
-    -  I like oceanography better than oceanology
-    -  Firm believer the fact that:
-      - Bears eat beets
-      - Vim > Emacs
-      - Red onions taste like armpit
-      - FNM > RHCP
-      - The Pope's sworn natural enemy is a bobcat
-      - Primus sucks
-      - Bob's your uncle
-      - Monkey paws grant wishes
+- Firm believer the following:
+  - Bears eat beets
+  - Vim > Emacs
+  - Red onions taste like armpit
+  - FNM > RHCP
+  - The Pope's sworn natural enemy is a bobcat
+  - Primus sucks
+  - Bob's your uncle
+  - Monkey paws grant wishes
+  - Baby ducks > Full grown geese
 - 💻 Open Source Contributions:
   - [GitHub Security Audit Tool](https://github.com/EISMGard/github-audit-tool)
   - [GitHub Gists](https://gist.github.com/bfrancom)
