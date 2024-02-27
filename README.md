@@ -6,9 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- I’m currently working on Platform Architecture, Application Security and Compliance leveraging python, GitHub Actions, GitHub Advanced Security and AWS cloud
+- I’m currently working on Platform Architecture leveraging python, nodeJS, GitHub, Terraform and AWS.
 - ✏️ Some things I've created:
   - [GitHub Security Audit Tool](https://github.com/EISMGard/github-audit-tool)
+  - [GitHub Enterprise License Alert]([https://github.com/EISMGard/github-audit-tool](https://github.com/EISMGard/github-enterprise-license-alert))
   - [EISMGard Company](https://www.eismgard.com)
   - [Website](https://benfran.com)
   - [LinkedIn](https://www.linkedin.com/in/benfrancom/)
@@ -29,7 +30,7 @@ Here are some ideas to get you started:
   - The Pope's sworn natural enemy is a bobcat
   - Primus sucks
   - Bob's your uncle
-  - Monkey paws grant wishes
+  - Monkey paws do in fact grant wishes
   - Baby ducks > Full grown geese
 - 💻 Open Source Contributions:
   - [GitHub Security Audit Tool](https://github.com/EISMGard/github-audit-tool)
