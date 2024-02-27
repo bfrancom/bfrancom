@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   - [AD-minister Better book and resources](https://administerbetter.com)
 - Fun Facts:
   - I wrote an [Android](https://github.com/bfrancom/ClerkCount) app a long while ago
-  - I also like to read, [write](https://benfran.com) and [draw](https://benfran.com/tags/#art/)
+  - I also like to read, [write](https://benfran.com) and [draw](https://benfran.com/tags/#art)
   - I've found and reported security vulnerabilities in multiple products including:
     -  [adp](https://www.adp.com/) (July 29, 2023): Data disclosure via Excessive Data Exposure
     -  [vacations to go](https://www.vacationstogo.com/) (July 29, 2023): Data disclosure via Broken Access Control
