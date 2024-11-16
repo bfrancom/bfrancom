@@ -15,6 +15,13 @@ Here are some ideas to get you started:
   - [LinkedIn](https://www.linkedin.com/in/benfrancom/)
   - [Habit Wallpaper](https://habituwall.com)
   - [AD-minister Better book and resources](https://administerbetter.com)
+- 💻 Open Source Contributions:
+  - [Grafana contributor](https://github.com/grafana/grafana-github-actions/commits?author=bfrancom)
+  - [Backstage.io contributor](https://github.com/backstage/backstage/pull/24137/commits)
+  - [GitHub Security Audit Tool](https://github.com/EISMGard/github-audit-tool)
+  - [GitHub Gists](https://gist.github.com/bfrancom)
+  - [StackOverflow Answers](https://stackoverflow.com/users/7016129/ben-francom)
+  - [ClerkCount Android App](https://github.com/bfrancom/ClerkCount)
 - Fun Facts:
   - I wrote an [Android](https://github.com/bfrancom/ClerkCount) app a long while ago
   - I also like to read, [write](https://benfran.com) and [draw](https://benfran.com/tags/#art)
@@ -32,11 +39,7 @@ Here are some ideas to get you started:
   - Bob's your uncle
   - Monkey paws do in fact grant wishes
   - Baby ducks > Full grown geese
-- 💻 Open Source Contributions:
-  - [GitHub Security Audit Tool](https://github.com/EISMGard/github-audit-tool)
-  - [GitHub Gists](https://gist.github.com/bfrancom)
-  - [StackOverflow Answers](https://stackoverflow.com/users/7016129/ben-francom)
-  - [ClerkCount Android App](https://github.com/bfrancom/ClerkCount)
+
 
 
 
