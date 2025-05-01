@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 
 - I’m currently working on Platform Architecture leveraging python, nodeJS, GitHub, Terraform and AWS.
 - ✏️ Some things I've created:
+  - [pod2book](https://pod2book.com) tool that converts podcasts to eBooks for the neurodivergent, deaf/hard of hearing and people that just like to read.
   - [GitHub Security Audit Tool](https://github.com/EISMGard/github-audit-tool)
   - [GitHub Enterprise License Alert]([https://github.com/EISMGard/github-audit-tool](https://github.com/EISMGard/github-enterprise-license-alert))
   - [EISMGard Company](https://www.eismgard.com)
@@ -26,9 +27,9 @@ Here are some ideas to get you started:
   - I wrote an [Android](https://github.com/bfrancom/ClerkCount) app a long while ago
   - I also like to read, [write](https://benfran.com) and [draw](https://benfran.com/tags/#art)
   - I've found and reported security vulnerabilities in multiple products including:
-    -  [adp](https://www.adp.com/) (July 29, 2023): Data disclosure via Excessive Data Exposure
-    -  [vacations to go](https://www.vacationstogo.com/) (July 29, 2023): Data disclosure via Broken Access Control
-    -  [skyward](https://en.wikipedia.org/wiki/Skyward) (Nov 2017): Data disclosure via Broken Access Control
+    - [adp](https://www.adp.com/) (July 29, 2023): Data disclosure via Excessive Data Exposure
+    - [vacations to go](https://www.vacationstogo.com/) (July 29, 2023): Data disclosure via Broken Access Control
+    - [skyward](https://en.wikipedia.org/wiki/Skyward) (Nov 2017): Data disclosure via Broken Access Control
 - Firm believer the following:
   - Bears eat beets
   - Vim > Emacs
