@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - I’m currently working on Platform Architecture leveraging python, nodeJS, GitHub, Terraform and AWS.
 - ✏️ Some things I've created:
-  - [pod2book](https://pod2book.com) tool that converts podcasts to eBooks for the neurodivergent, deaf/hard of hearing and people that just like to read.
+  - [pod2book](https://pod2book.com) tool that converts podcasts to eBooks using the OpenAI Whisper model. This tool is handy for the neurodivergent, deaf/hard of hearing, or people that just like to read.
   - [GitHub Security Audit Tool](https://github.com/EISMGard/github-audit-tool)
   - [GitHub Enterprise License Alert](https://github.com/EISMGard/github-enterprise-license-alert)
   - [EISMGard Company](https://www.eismgard.com)
